@@ -1,0 +1,29 @@
+Q.1: What does 'CSS' stands for?
+option 1:Cascading Super Sheets
+option 2:Cascading Style Sheep
+option 3:Cascading Style Sheets
+option 4:None of the above
+
+Q.2:The full form of PHP is
+option 1:Hypertext Preprocessor
+option 2:Personal Home Processor
+option 3:Pretext Hypertext Preprocessor
+option 4:None of the above
+
+Q.3:What is the correct Javascript syntax to write "Hello World" ?
+option 1:System.out.println("Hello World")
+option 2:printf("Hello World")
+option 3:document.write("Hello World")
+option 4:response.write("Hello World")
+
+Q.4:CSS is used for
+option 1:Create a Web Page
+option 2:Design a Web Page
+option 3:Create interactive web pages
+option 4:All of the above
+
+Q.5:To create HTML Page, you need-----
+option 1:Web Browser
+option 2:Text Editor
+option 3:Both a & b
+option 4:None of these
